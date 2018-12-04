@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "id": "apple",
+      "name": "りんご",
+      "description": "りんごは うまい"
+    },
+    {
+      "id": "orange",
+      "name": "オレンジ",
+      "description": "オレンジは うまい"
+    },
+    {
+      "id": "banana",
+      "name": "ばなな",
+      "description": "バナナは うまい"
+    }
+  ],
+  "default": {
+    "id": "fruits",
+    "name": "くだもの",
+    "description": "くだものを あつめます"
+  },
+  "error": {
+    "id": "nashi",
+    "name": "なし",
+    "description": "なにもないので なし"
+  }
+}
